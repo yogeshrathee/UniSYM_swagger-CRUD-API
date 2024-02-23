@@ -57,7 +57,7 @@ UMS is a simple Java-based application built using Spring Boot framework. This a
       2. Record deleted Successfully by the Student Registration Number.
   ![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(37).png)
   
-      3. Deleted Record is not showing in database , after excuted the delete request.
+      3. Record is not showing in database , after excuted the delete request.
   ![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(38).png)
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
