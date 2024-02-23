@@ -1,16 +1,95 @@
 # 📚 UMS (University Management System)
 
 UMS is a simple Java-based application built using Spring Boot framework. This application allows you to manage student records in a university.
-![Example Image](example.png)
+![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(24).png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔑 Features
 
-- [x] Create a new student record
-- [x] Get student record by registration number
-- [x] Get all student records
-- [x] Update student record
-- [x] Delete student record by registration number
-- [x] Delete all student records
+- ## [A] Create a new student record
+
+      1. Empty Database
+![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(25).png)
+
+      2. Excute the post request
+![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(26).png)
+
+      3. Record Created Successfully !!
+![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(27).png)
+
+      4. Record is showing in database , after excuted the post request. 
+![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(28).png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- ## [B] Get record by the student registration number
+  
+      1. Enter the Sudent Registration number , and Excute the get request
+  ![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(30).png)
+
+      2. Record Fetched Successfully by the Student Registration Number.
+  ![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(31).png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- ## [C] Update student record
+
+      1. Previous record is
+  ![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(28).png)
+
+      2. Excute the put request
+![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(33).png)
+
+      3. Record updated Successfully !!
+![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(34).png)
+
+      4. Updated Record is showing in database , after excuted the put request.
+![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(35).png)
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+- ## [D] Delete record by the student registration number
+
+      1. Enter the Sudent Registration number , and Excute the delete request
+  ![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(36).png)
+  
+      2. Record deleted Successfully by the Student Registration Number.
+  ![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(37).png)
+  
+      3. Deleted Record is not showing in database , after excuted the delete request.
+  ![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(38).png)
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- ## [E] Get all student records
+
+      1. Records in Database
+  ![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(38.1)%20-%20Copy.png)
+
+      2. Excute the request for fetched the all records.
+  ![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(38.1).png)
+
+      3. All Records Fetched Successfully.
+  ![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(39).png)
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+- ## [F] Delete all student records
+
+      1. Records in Database
+  ![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(38.1)%20-%20Copy.png)
+
+      2. Excute the request for deleted the all records.
+![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(41).png)
+
+      3. All Records Deleted Successfully.
+![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(42).png)
+
+      4. No record founds.
+![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(43).png)
+      
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Tech Stack
 
@@ -27,7 +106,9 @@ UMS is a simple Java-based application built using Spring Boot framework. This a
 3. Create a MySQL database named "ums"
 4. Update the `application.properties` file with your MySQL credentials
 5. Run the `UmsApplication` class
-6. Access the Swagger UI at `http://localhost:8080/swagger-ui/index.html`
+6. Access the Swagger UI at
+   `http://localhost:8080/swagger-ui/index.html`
+   ![](https://github.com/yogeshrathee/UniSYM_swagger-CRUD-API/blob/9027a48a3aa63a6341008a8f4dcc6243c3f3ba2d/images/Screenshot%20(24).png)
 
 ## 📚 API Documentation
 
