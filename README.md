@@ -1,3 +1,6 @@
+# 🌐 Live Demo
+You can access a live demo of the project here :- https://uni-management-system.azurewebsites.net/swagger-ui/index.html#/
+
 # 📚 UMS (University Management System)
 
 UMS is a simple Java-based application built using Spring Boot framework. This application allows you to manage student records in a university.
