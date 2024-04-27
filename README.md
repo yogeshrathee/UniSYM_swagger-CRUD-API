@@ -1,5 +1,5 @@
 # 🌐 Live Demo
-You can access a live demo of the project here :- https://uni-management-system.azurewebsites.net/swagger-ui/index.html#/
+You can access a live demo of the project here :- https://electoralbondsapplication.azurewebsites.net/swagger-ui/index.html#/
 
 # 📚 UMS (University Management System)
 
