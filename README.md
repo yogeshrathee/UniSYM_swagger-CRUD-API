@@ -1,6 +1,10 @@
 # 🌐 Live Demo
 You can access a live demo of the project here :- https://uni-management-system.azurewebsites.net/swagger-ui/index.html#
 
+## 📺 Video Walkthrough:
+For a comprehensive overview of the project execution, please watch the full walkthrough on YouTube:  
+[![Project Execution Demo](https://img.youtube.com/vi/UPf9F8c2eIo/0.jpg)](https://youtu.be/UPf9F8c2eIo)
+
 # 📚 UMS (University Management System)
 
 UMS is a simple Java-based application built using Spring Boot framework. This application allows you to manage student records in a university.
@@ -134,10 +138,28 @@ Swagger UI is available at `http://localhost:8080/swagger-ui/index.html`. You ca
 - **DELETE /ums/{regNo}**: Delete a user record by registration number.
 - **DELETE /ums**: Delete all user records.
 
+## 🔥 Key Highlights:
+- 🛠️ Built using **Java** and **Spring Boot**
+- 📊 Connected to a **MySQL Database** for data persistence
+- 📑 Documented and tested using **Swagger UI**
+- 🌐 Fully deployed and available for real-time access
 
-## 🤝 Contributing
+## 📝 What You Will Learn:
+- Setting up a **RESTful API** from scratch
+- Performing **CRUD operations** for student data
+- Interacting with your API using **Swagger UI**
+- Deploying the API to the cloud
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
+## 🚀 Get Started:
+To set up the project locally, follow the instructions below.
+
+### Prerequisites:
+- **Java 11** or higher
+- **MySQL** installed and running
+- **Maven** for managing dependencies
+---
+
+💻 **Check out the live demo and start managing student records with ease!**
 
 ## 📝 License
 
